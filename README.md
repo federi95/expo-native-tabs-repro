@@ -33,7 +33,5 @@ This issue can result in degraded performance, excessive resource consumption, a
 - Main file: `app/(tabs)/_layout.tsx` (contains the tabs configuration)
 - Screens: `app/(tabs)/index.tsx` and `app/(tabs)/two.tsx` (with `useEffect` and console.log to track mounting)
 
-If needed, attach screenshots of the console or a video of the behavior.
-
 ## Additional Notes
 This repro was created specifically to isolate the issue. The repository is public and can be used for testing fixes or investigations.
